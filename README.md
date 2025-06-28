@@ -1,4 +1,4 @@
-# File-Tag-System
+# Arrange Your File
 
 In this File-Tag-System we create a software that will help users organize their Files on disk using Tags.
 • A tag is an arbitrary value that can be associated with a file. (Like names of people, places, events, etc.)
